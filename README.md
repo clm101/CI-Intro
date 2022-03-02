@@ -1,0 +1,1 @@
+This repository is following the CI tutorial on Real Python at https://realpython.com/python-continuous-integration/#what-is-continuous-integration
